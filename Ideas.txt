@@ -1,0 +1,49 @@
+1. *CyberSecurity & Digital Trust*
+
+=> Develop system that detects malware, sus links, sus traffic, etc.
+
+=> Min. Requirements:
+- Accept a URL or message for analysis.
+- Identify suspicious patterns and generate a threat assessment.
+- Display a risk level with reasons and recommended precautions.
+- Provide a functional interface for users to test the system.
+
+=> Possible solutions:
+VirusTotal API, AI Agent(? pls let there be no clankers in my project D;)
+
+Help: https://www.reddit.com/r/cybersecurity/comments/1fwvcdg/free_api_to_scan_file_uploads/
+https://www.npmjs.com/package/node-virustotal
+
+
+2. *Climate and disaster management*
+
+=> Problem Statement: 
+Develop a technology-driven solution that helps identify climate-related risks or disaster situations, such as
+floods, heatwaves, cyclones, or extreme rainfall, and supports timely alerts, preparedness, and emergency
+response.
+
+=> Minimum Requirements:
+- Use relevant weather data, historical records, or simulated disaster scenarios.
+- Identify risk indicators and display understandable risk levels.
+- Provide alerts, safety recommendations, or emergency response guidance.
+- Demonstrate a functional prototype using at least one test scenario.
+- Explain the solution's potential real-world impact and scalability.
+
+=> Possible Solutions
+APIs (TheWeatherCompany API)
+
+
+3. *Healthcare & Medical Innovation*
+
+=> Problem Statement: AI-Powered Healthcare Accessibility & Early Assistance
+Develop a technology-driven solution that improves access to healthcare by helping users identify relevant
+healthcare services, understand health information, or recognize potential health risks and seek appropriate
+medical assistance.
+
+=> Minimum Requirements:
+- Provide a user-friendly interface to access healthcare information or services.
+- Implement at least one core feature, such as facility discovery, health information assistance, or preliminary risk awareness.
+- Use reliable health information sources or clearly labelled sample data.
+- Provide relevant guidance and recommend professional medical assistance when necessary.
+- Demonstrate a functional prototype using at least one test scenario.
+- Ensure user data privacy and avoid presenting AI-generated outputs as definitive medical diagnoses
