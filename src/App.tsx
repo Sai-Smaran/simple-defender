@@ -6,7 +6,7 @@ function App() {
   // const [count, setCount] = useState("");
   const inputFileRef = useRef(null);
   
-  const handleFileUpload = (e) => {
+  const handleFileUpload = (e: any) => {
     e.preventDefault();
     inputFileRef.current.click();
 
